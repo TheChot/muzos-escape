@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 18c230229b114874680a498bba72308c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1159775528775870212
+    second: moneybunny_0
+  - first:
+      213: -4938775914406200548
+    second: moneybunny_1
+  - first:
+      213: -314765951493448934
+    second: moneybunny_2
+  - first:
+      213: -6574686065380048556
+    second: moneybunny_3
+  - first:
+      213: 3051606654393960200
+    second: moneybunny_4
+  - first:
+      213: -5403760356785741119
+    second: moneybunny_5
+  - first:
+      213: -821134604999643300
+    second: moneybunny_6
+  - first:
+      213: 657069857761723903
+    second: moneybunny_7
+  - first:
+      213: 7633439573372062979
+    second: moneybunny_8
+  - first:
+      213: -5031398346290139734
+    second: moneybunny_9
+  - first:
+      213: 5552167855290639706
+    second: moneybunny_10
+  - first:
+      213: 4914215967834423364
+    second: moneybunny_11
+  - first:
+      213: 633382125060817094
+    second: moneybunny_12
+  - first:
+      213: 2990434917507525633
+    second: moneybunny_13
+  - first:
+      213: -1592732498817428782
+    second: moneybunny_14
+  - first:
+      213: 8321002450261419090
+    second: moneybunny_15
+  - first:
+      213: -4350910292076626343
+    second: moneybunny_16
+  - first:
+      213: 8681098257386979088
+    second: moneybunny_17
+  - first:
+      213: 8753194171127143235
+    second: moneybunny_18
+  - first:
+      213: -3086488225971101527
+    second: moneybunny_19
+  - first:
+      213: -4813799096073107939
+    second: moneybunny_20
+  - first:
+      213: 2248378914161720143
+    second: moneybunny_21
+  - first:
+      213: 8698878050311635877
+    second: moneybunny_22
+  - first:
+      213: -1198774863046730752
+    second: moneybunny_23
+  - first:
+      213: -3681444449923823520
+    second: moneybunny_24
+  - first:
+      213: -5435628042687190777
+    second: moneybunny_25
+  - first:
+      213: 6413317743829183626
+    second: moneybunny_26
+  - first:
+      213: 2012090474562601484
+    second: moneybunny_27
+  - first:
+      213: -1395272107447978359
+    second: moneybunny_28
+  - first:
+      213: -4388520583894139119
+    second: moneybunny_29
+  - first:
+      213: 7457426881417809460
+    second: moneybunny_30
+  - first:
+      213: -8562713450300377052
+    second: moneybunny_31
+  - first:
+      213: 3126589798382302600
+    second: moneybunny_32
+  - first:
+      213: -6810334905536814893
+    second: moneybunny_33
+  - first:
+      213: 1767047036632734117
+    second: moneybunny_34
+  - first:
+      213: 1539346356384841049
+    second: moneybunny_35
+  - first:
+      213: 5722414409199164966
+    second: moneybunny_36
+  - first:
+      213: -5426156932546249354
+    second: moneybunny_37
+  - first:
+      213: -8676805585102951022
+    second: moneybunny_38
+  - first:
+      213: -7849893155595163025
+    second: moneybunny_39
+  - first:
+      213: -2437698059410784844
+    second: moneybunny_40
+  - first:
+      213: 6199062021552009625
+    second: moneybunny_41
+  - first:
+      213: -8151712525728500282
+    second: moneybunny_42
+  - first:
+      213: -1410488830455419937
+    second: moneybunny_43
+  - first:
+      213: 4295234626969097766
+    second: moneybunny_44
+  - first:
+      213: -1445140228184515315
+    second: moneybunny_45
+  - first:
+      213: -3652127790687178807
+    second: moneybunny_46
+  - first:
+      213: -7224071226407273556
+    second: moneybunny_47
+  - first:
+      213: 8046920410382240432
+    second: moneybunny_48
+  - first:
+      213: -5516732034284332658
+    second: moneybunny_49
+  - first:
+      213: -4390397615829034354
+    second: moneybunny_50
+  - first:
+      213: -8767467635753103404
+    second: moneybunny_51
+  - first:
+      213: 1872660934311669020
+    second: moneybunny_52
+  - first:
+      213: 7337065705740266756
+    second: moneybunny_53
+  - first:
+      213: -2884359129877592659
+    second: moneybunny_54
+  - first:
+      213: -5547385285576393653
+    second: moneybunny_55
+  - first:
+      213: 6573377374696679745
+    second: moneybunny_56
+  - first:
+      213: -8283731039764761133
+    second: moneybunny_57
+  - first:
+      213: 4623039698576222822
+    second: moneybunny_58
+  - first:
+      213: 6209180649624338213
+    second: moneybunny_59
+  - first:
+      213: -5746025732216000834
+    second: moneybunny_60
+  - first:
+      213: 3420559787876582735
+    second: moneybunny_61
+  - first:
+      213: -2414204519703088878
+    second: moneybunny_62
+  - first:
+      213: -4321936446901127512
+    second: moneybunny_63
+  - first:
+      213: 4267471655972223373
+    second: moneybunny_64
+  - first:
+      213: -7894323099356723029
+    second: moneybunny_65
+  - first:
+      213: 186687054975624166
+    second: moneybunny_66
+  - first:
+      213: -8033412577648588926
+    second: moneybunny_67
+  - first:
+      213: 944924594320052658
+    second: moneybunny_68
+  - first:
+      213: -7129770619721567667
+    second: moneybunny_69
+  - first:
+      213: -6724854928247247610
+    second: moneybunny_70
+  - first:
+      213: 2524870540769524361
+    second: moneybunny_71
+  - first:
+      213: 5458796182510769305
+    second: moneybunny_72
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moneybunny_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1511
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42580b0888af73498538c2ddcbe3b9c
+      internalID: 1159775528775870212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1511
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38fe3aa59d267e44b05f97f0e38bacf
+      internalID: -4938775914406200548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1511
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f9f3a31558a94b82097f9eb598785
+      internalID: -314765951493448934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1511
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85cf549b9daa2448d5b6f9d40d24f6
+      internalID: -6574686065380048556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1509
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584456b02cd9b354c8eaaa100dd3bd0f
+      internalID: 3051606654393960200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1509
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6562f24b2bcb42a012c09e4478bd6
+      internalID: -5403760356785741119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1393
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d138c3255c7a64f81774a94c589713
+      internalID: -821134604999643300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1393
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e5a5905b9fa64bb20dc4c5ae97ff6
+      internalID: 657069857761723903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1390
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865946d2c0d82d48bf36788318c4e0f
+      internalID: 7633439573372062979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1393
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1ec0f7f76346438ad6dfa4bf1fdaa
+      internalID: -5031398346290139734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1393
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683a237614e6314691a6fbd5d135ff3
+      internalID: 5552167855290639706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1393
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daefa089ae258249a9a93626b1c7ea2
+      internalID: 4914215967834423364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1259
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d367593947ed4ba4785341417234d
+      internalID: 633382125060817094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1259
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4108cab28322b4289e6c1dc172bf54
+      internalID: 2990434917507525633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1253
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4216f2e13893499c64c8e85d9c5c4
+      internalID: -1592732498817428782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1264
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91acb4f9732f140b24b39d0820d13d
+      internalID: 8321002450261419090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1263
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a4786636e2c0448bdbc37a39a9171e
+      internalID: -4350910292076626343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1256
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d3a2d2dad97d4e811de3fcc621ab5
+      internalID: 8681098257386979088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1259
+        width: 82
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5adbe9e7e46a4bbf98012e60f9fd7
+      internalID: 8753194171127143235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1258
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457df7c6b75d14b4381cec44e414c133
+      internalID: -3086488225971101527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1123
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60f2f8322930f43bae31dfd6af043e
+      internalID: -4813799096073107939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1124
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93a83f2545bb74ea0ab33907ec3634
+      internalID: 2248378914161720143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1122
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1f011abda0a244b480784cc493ae2
+      internalID: 8698878050311635877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1122
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.86}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf20517722936449c0f9489a76e8de
+      internalID: -1198774863046730752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1121
+        width: 50
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246449e606f5df458687599ace2e955
+      internalID: -3681444449923823520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1120
+        width: 50
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b20479aa22d343b58c1d3074f94a0
+      internalID: -5435628042687190777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_26
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1117
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9818a6b1c0b9b84fb86d750174ccc31
+      internalID: 6413317743829183626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 987
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ffbb0b3e3513a448ecb0efe9b19ef4
+      internalID: 2012090474562601484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 987
+        width: 94
+        height: 111
+      alignment: 9
+      pivot: {x: 0.39, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95063f127f04ee4c838c88790a9fec4
+      internalID: -1395272107447978359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 985
+        width: 134
+        height: 111
+      alignment: 9
+      pivot: {x: 0.275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f9f9c0bf158044b651951b0993ed6
+      internalID: -4388520583894139119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 984
+        width: 178
+        height: 111
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cbdb0eca0b4c04d942faaf8bc4488d
+      internalID: 7457426881417809460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 981
+        width: 231
+        height: 111
+      alignment: 9
+      pivot: {x: 0.16, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b21f1e63057549884d4d67f656279
+      internalID: -8562713450300377052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 855
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa82ad1fc04dbc4a8fbb5fd5198255a
+      internalID: 3126589798382302600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 855
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deff1ca8de3799429e11aeb3a789693
+      internalID: -6810334905536814893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 854
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f540f540acb404981ccb0589e78e2b
+      internalID: 1767047036632734117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 854
+        width: 57
+        height: 109
+      alignment: 9
+      pivot: {x: 0.61, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2515d5f25056134dbe2d3eafeb88c09
+      internalID: 1539346356384841049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 854
+        width: 86
+        height: 109
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d387b1b73ddf984aba6290203179722
+      internalID: 5722414409199164966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 713
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e7bfa3ccff194599cc21a7089fa19
+      internalID: -5426156932546249354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 713
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32e7b16a258344ba32190ed9636fa3
+      internalID: -8676805585102951022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 716
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34aa369165bfb4d8e9b3ea71dfa42b
+      internalID: -7849893155595163025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 716
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534e8aea0dd80914fb007671b3640866
+      internalID: -2437698059410784844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 719
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce840def5a18a54eab2274874b33ea7
+      internalID: 6199062021552009625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_42
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 717
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe77807813fe546a269ce7cf4b98c6
+      internalID: -8151712525728500282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 719
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5126623280ca7a4d836824d04b43d1b
+      internalID: -1410488830455419937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 528
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b64cedfd346424a9c0909114e64700
+      internalID: 4295234626969097766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 528
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2733d8ff565eb41955c5306c18cf35
+      internalID: -1445140228184515315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 525
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6196ca82fb8cfc4d9a69f8f228b9eac
+      internalID: -3652127790687178807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 518
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5942810f8e6494da316d07b383e0da
+      internalID: -7224071226407273556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 514
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea630215b04428b46943cc13bc738a9d
+      internalID: 8046920410382240432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 515
+        width: 73
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd785d7d949954c8138bb582bedcd1
+      internalID: -5516732034284332658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 523
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9281c2a9e0284aa55edfe5755bdaf
+      internalID: -4390397615829034354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 522
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af30f82d63ca3945b4f30481470fc17
+      internalID: -8767467635753103404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 394
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6e3d5c60939b4e85baf3bd453eab1
+      internalID: 1872660934311669020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 54
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aff4ecc70a4e444bc8b715b9963cf7
+      internalID: 7337065705740266756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 390
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2065f62ce9fcc44bacb96b4ac14709e
+      internalID: -2884359129877592659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 390
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7021cfebdc5574ab0615335a59ca46
+      internalID: -5547385285576393653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 275
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f55f6fd378d9428d66ff240d5c8d3
+      internalID: 6573377374696679745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c520fe8a14a3d4fac35378e794c1ce
+      internalID: -8283731039764761133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b2990c5e5302e4fbe054b2e1de71ee
+      internalID: 4623039698576222822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 153
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f5c9b2be1c8a46ae71adde581e8db
+      internalID: 6209180649624338213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 153
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8de852ad2d46341a08db84423927c4
+      internalID: -5746025732216000834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 146
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfff7aa58b7c9747a8615682f4a79c1
+      internalID: 3420559787876582735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_62
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 157
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5148bdbf81b2f349a2df769f094d836
+      internalID: -2414204519703088878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 156
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ab7adefbda414a848862b430d61b0
+      internalID: -4321936446901127512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 150
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19547b4e1d60be4b87ab5cc296a3b82
+      internalID: 4267471655972223373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff8a76b1a09d344949eded028714ee
+      internalID: -7894323099356723029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f603099f8c5a4187a80495d2ad142
+      internalID: 186687054975624166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591473489d18494d81eba5e8a9de34f
+      internalID: -8033412577648588926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_68
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 32
+        width: 98
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d26b592a194d449b87af9be0dbb72
+      internalID: 944924594320052658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_69
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 115
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c07b4b21e2814e9da6a6c2cd59cff
+      internalID: -7129770619721567667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_70
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 30
+        width: 95
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f69a81d5f066d47b6c633b54705766
+      internalID: -6724854928247247610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1120
+        width: 49
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd551cbf52e73d43a633ea42b5fac01
+      internalID: 2524870540769524361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneybunny_72
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1121
+        width: 49
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e77d4373afcbc4ab79adf6354b113c
+      internalID: 5458796182510769305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

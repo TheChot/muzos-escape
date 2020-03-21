@@ -54,6 +54,11 @@ public class characterController : MonoBehaviour
 
     SpriteRenderer sr;
 
+    // Jump hold
+    public float extraJump;
+    // public float jumpTime;
+    // float jumpTimeReset;
+    bool hasJumped;
 
 
 
@@ -69,21 +74,19 @@ public class characterController : MonoBehaviour
 
         isHitTimeReset = isHitTime;
 
+        // jumpTimeReset = jumpTime;
+
         sceneController = GameObject.Find("scenemanager").GetComponent<sceneManager>();
 
 
     }
-    // void Update()
-    // {
-    //     Vector2 moveInput = new Vector2()
-    // }
-
-    private void FixedUpdate()
+    void Update()
     {
-        checkGround();
+
         if (!isDead)
         {
-            controlChar();
+            charJump();
+
         }
         else
         {
@@ -93,6 +96,17 @@ public class characterController : MonoBehaviour
             anim.SetBool("New Bool", false);
             gameObject.layer = 0;
         }
+    }
+
+    private void FixedUpdate()
+    {
+        checkGround();
+        if (!isDead)
+        {
+            controlChar();
+
+        }
+
 
 
 
@@ -141,10 +155,7 @@ public class characterController : MonoBehaviour
 
         }
 
-        if (Input.GetKeyDown(jump) && isGrounded)
-        {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-        }
+
 
         if (rb.velocity.x < 0)
         {
@@ -180,6 +191,60 @@ public class characterController : MonoBehaviour
         anim.SetBool("isGrounded", isGrounded);
         // anim.SetBool("isMelee", isMelee);
         anim.SetBool("isThrowing", isThrowing);
+
+    }
+
+
+    void charJump()
+    {
+
+        if (Input.GetKeyDown(jump))
+        {
+            if (isGrounded)
+            {
+
+                rb.velocity = new Vector2(rb.velocity.x, 0);
+                rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+                hasJumped = true;
+
+            }
+            else
+            {
+                if (hasJumped)
+                {
+                    rb.velocity = new Vector2(rb.velocity.x, 0);
+                    rb.velocity = new Vector2(rb.velocity.x, extraJump);
+                    hasJumped = false;
+                }
+
+            }
+
+        }
+
+        // if (isGrounded)
+        // {
+
+        //     hasJumped = false;
+        // }
+
+
+
+        // if (isGrounded)
+        // {
+        //     hasJumpedAgain = false;
+        // }
+
+        // if (Input.GetKey(jump) && jumpTime > 0)
+        // {
+        //     rb.velocity = new Vector2(rb.velocity.x, extraJump);
+        //     jumpTime -= Time.deltaTime;
+        // }
+
+        // if (isGrounded)
+        // {
+        //     jumpTime = jumpTimeReset;
+
+        // }
 
     }
 
