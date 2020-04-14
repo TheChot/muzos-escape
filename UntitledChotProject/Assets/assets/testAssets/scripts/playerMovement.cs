@@ -5,11 +5,16 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     public float speed;
-    // should fallspeed accelarate over time?
+    float moveInput;
+
+    // For combos 
     public float fallSpeed;
+
     // For jumping
     public float jumpForce;
     bool isGrounded;
+
+    // Ground check
     public Transform groundCheck;
     public float groundCheckRadius;
     public LayerMask whatIsGround;
@@ -18,41 +23,66 @@ public class playerMovement : MonoBehaviour
 
     Rigidbody2D rb;
 
-
-
-    bool cancelMovement = false;
+    // WHen hit
+    public bool cancelMovement = false;
+    bool playerHit;
     public float hitTime = 0.3f;
     float hitTimeReset;
-    // Start is called before the first frame update
+
+    // For animation
+    private Animator anim;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+
         hitTimeReset = hitTime;
     }
 
-    // Update is called once per frame
     void Update()
     {
+        // if (!cancelMovement)
+        // {
+        //     moveInput = Input.GetAxisRaw("Horizontal");
+        // }
+        // else
+        // {
+        //     moveInput = 0;
+        // }
 
+        moveInput = Input.GetAxisRaw("Horizontal");
     }
+
 
     void FixedUpdate()
     {
         checkGround();
-        if (!cancelMovement)
+
+        if (!playerHit)
         {
-            moveCharacter();
-            charJump();
+            if (isGrounded)
+            {
+                moveCharacter();
+                charJump();
+            }
         }
-        else
+
+
+        if (playerHit)
         {
             hitTime -= Time.deltaTime;
+            anim.SetFloat("run", 0);
             if (hitTime < 0)
             {
-                cancelMovement = false;
+                playerHit = false;
                 hitTime = hitTimeReset;
             }
         }
+
+
+        anim.SetBool("grounded", isGrounded);
 
 
 
@@ -61,26 +91,17 @@ public class playerMovement : MonoBehaviour
     void moveCharacter()
     {
 
-        if (Input.GetButton("Horizontal") && Input.GetAxisRaw("Horizontal") < 0)
+        if (Input.GetAxisRaw("Horizontal") < 0)
         {
-            // rb.MovePosition(rb.position + new Vector2(-speed, -fallSpeed) * Time.fixedDeltaTime);
-            // rb.velocity = new Vector2(-speed, rb.velocity.y);
             transform.localScale = new Vector3(-1, 1, 1);
-
         }
-        else if (Input.GetButton("Horizontal") && Input.GetAxisRaw("Horizontal") > 0)
+        else if (Input.GetAxisRaw("Horizontal") > 0)
         {
-            // rb.MovePosition(rb.position + new Vector2(speed, -fallSpeed) * Time.fixedDeltaTime);
-            // rb.velocity = new Vector2(speed, rb.velocity.y);
             transform.localScale = new Vector3(1, 1, 1);
-
         }
-        // else
-        // {
-        //     rb.velocity = new Vector2(0, rb.velocity.y);
-        // }
 
-        float moveInput = Input.GetAxisRaw("Horizontal");
+        // float moveInput = Input.GetAxisRaw("Horizontal");
+        anim.SetFloat("run", Mathf.Abs(moveInput));
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
 
 
@@ -89,7 +110,7 @@ public class playerMovement : MonoBehaviour
     void charJump()
     {
 
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        if (Input.GetButtonDown("Jump"))
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
@@ -102,10 +123,9 @@ public class playerMovement : MonoBehaviour
 
     public void isHit(bool isLeft)
     {
-
         bool facingLeft = transform.localScale.x < 0;
-        cancelMovement = true;
-        // Debug.Log(rb.position.x);
+        playerHit = true;
+
         if (facingLeft && isLeft || isLeft && !facingLeft)
         {
             // rb.MovePosition(rb.position + hitDistance);
@@ -117,13 +137,12 @@ public class playerMovement : MonoBehaviour
             rb.velocity = new Vector2(-hitDistance.x, hitDistance.y);
         }
 
-
-
     }
 
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-    }
+    // For Debugging the areas 
+    // void OnDrawGizmosSelected()
+    // {
+    //     Gizmos.color = Color.red;
+    //     Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+    // }
 }
